@@ -23,7 +23,7 @@ div#wall div#tag-3.slick {
 
 }
 
-#wall .class > #tag-4 {
+#wall .class #tag-4 {
 
     background: url(../images/tag-4.png) no-repeat;
     z-index: 4;
